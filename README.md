@@ -1,4 +1,6 @@
-# sayanaOdev
+# numericalAnalysisProject
+
+1st year second half's project
 
 Methods u can use 
 
